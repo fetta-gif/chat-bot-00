@@ -1,0 +1,153 @@
+2025-01-03 00:51:45,915 - INFO - Starting server on port 5000
+2025-01-03 00:51:45,928 - INFO - Successfully configured Gemini API
+2025-01-03 00:51:46,400 - WARNING -  * Debugger is active!
+2025-01-03 00:51:46,430 - INFO -  * Debugger PIN: 805-005-585
+2025-01-03 00:51:50,023 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-01-03 00:52:27,824 - INFO - Starting server on port 5000
+2025-01-03 00:52:27,828 - INFO - Successfully configured Gemini API
+2025-01-03 00:52:27,857 - INFO -  * Restarting with stat
+2025-01-03 00:52:32,768 - INFO - Starting server on port 5000
+2025-01-03 00:52:32,777 - INFO - Successfully configured Gemini API
+2025-01-03 00:52:32,811 - WARNING -  * Debugger is active!
+2025-01-03 00:52:32,842 - INFO -  * Debugger PIN: 805-005-585
+2025-01-03 00:52:36,008 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-01-03 00:52:50,758 - INFO - 127.0.0.1 - - [03/Jan/2025 00:52:50] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-03 00:52:56,059 - INFO - 127.0.0.1 - - [03/Jan/2025 00:52:56] "GET /health HTTP/1.1" 200 -
+2025-01-03 00:52:58,081 - INFO - 127.0.0.1 - - [03/Jan/2025 00:52:58] "[35m[1mOPTIONS /chat HTTP/1.1[0m" 204 -
+2025-01-03 00:52:58,482 - INFO - Received chat request
+2025-01-03 00:53:09,159 - INFO - Successfully generated response
+2025-01-03 00:53:09,159 - INFO - 127.0.0.1 - - [03/Jan/2025 00:53:09] "POST /chat HTTP/1.1" 200 -
+2025-01-03 00:53:50,418 - INFO - 127.0.0.1 - - [03/Jan/2025 00:53:50] "[35m[1mOPTIONS /chat HTTP/1.1[0m" 204 -
+2025-01-03 00:53:50,719 - INFO - Received chat request
+2025-01-03 00:53:54,494 - INFO - Successfully generated response
+2025-01-03 00:53:54,495 - INFO - 127.0.0.1 - - [03/Jan/2025 00:53:54] "POST /chat HTTP/1.1" 200 -
+2025-01-03 00:55:15,799 - INFO - 127.0.0.1 - - [03/Jan/2025 00:55:15] "[35m[1mOPTIONS /chat HTTP/1.1[0m" 204 -
+2025-01-03 00:55:16,184 - INFO - Received chat request
+2025-01-03 00:55:21,030 - INFO - Successfully generated response
+2025-01-03 00:55:21,030 - INFO - 127.0.0.1 - - [03/Jan/2025 00:55:21] "POST /chat HTTP/1.1" 200 -
+2025-01-03 00:55:50,039 - INFO - 127.0.0.1 - - [03/Jan/2025 00:55:50] "[35m[1mOPTIONS /chat HTTP/1.1[0m" 204 -
+2025-01-03 00:55:50,299 - INFO - Received chat request
+2025-01-03 00:55:54,499 - INFO - Successfully generated response
+2025-01-03 00:55:54,504 - INFO - 127.0.0.1 - - [03/Jan/2025 00:55:54] "POST /chat HTTP/1.1" 200 -
+2025-01-03 01:21:19,313 - INFO - 127.0.0.1 - - [03/Jan/2025 01:21:19] "[35m[1mOPTIONS /chat HTTP/1.1[0m" 204 -
+2025-01-03 01:21:19,863 - INFO - Received chat request
+2025-01-03 01:21:27,907 - INFO - Successfully generated response
+2025-01-03 01:21:27,907 - INFO - 127.0.0.1 - - [03/Jan/2025 01:21:27] "POST /chat HTTP/1.1" 200 -
+2025-01-03 01:25:01,118 - INFO -  * Detected change in 'c:\\Users\\PC\\Desktop\\chat bot ai\\ppp - Copy 2\\gemini_handler.py', reloading
+2025-01-03 01:25:03,885 - INFO -  * Restarting with stat
+2025-01-03 01:25:28,235 - INFO - Starting server on port 5000
+2025-01-03 01:25:28,335 - INFO -  * Restarting with stat
+2025-01-03 01:25:41,514 - INFO - Starting server on port 5000
+2025-01-03 01:25:41,601 - WARNING -  * Debugger is active!
+2025-01-03 01:25:41,625 - INFO -  * Debugger PIN: 805-005-585
+2025-01-03 01:25:43,613 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-01-03 01:25:53,768 - INFO - 127.0.0.1 - - [03/Jan/2025 01:25:53] "GET /health HTTP/1.1" 200 -
+2025-01-03 01:26:14,808 - INFO - 127.0.0.1 - - [03/Jan/2025 01:26:14] "OPTIONS /chat HTTP/1.1" 200 -
+2025-01-03 01:26:28,909 - INFO - 127.0.0.1 - - [03/Jan/2025 01:26:28] "POST /chat HTTP/1.1" 200 -
+2025-01-03 01:27:00,739 - INFO -  * Detected change in 'c:\\Users\\PC\\Desktop\\chat bot ai\\ppp - Copy 2\\gemini_handler.py', reloading
+2025-01-03 01:31:48,149 - INFO - Starting server on port 8000
+2025-01-03 01:31:48,157 - INFO - Successfully configured Gemini API
+2025-01-03 01:31:48,200 - INFO -  * Restarting with stat
+2025-01-03 01:31:55,639 - INFO - Starting server on port 8000
+2025-01-03 01:31:55,648 - INFO - Successfully configured Gemini API
+2025-01-03 01:31:55,673 - WARNING -  * Debugger is active!
+2025-01-03 01:31:55,726 - INFO -  * Debugger PIN: 805-005-585
+2025-01-03 01:31:57,294 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-01-03 01:31:57,294 - INFO -  * Running on http://192.168.1.35:8000/ (Press CTRL+C to quit)
+2025-01-03 01:32:09,832 - INFO - 127.0.0.1 - - [03/Jan/2025 01:32:09] "GET /health HTTP/1.1" 200 -
+2025-01-03 01:32:11,931 - INFO - 127.0.0.1 - - [03/Jan/2025 01:32:11] "[35m[1mOPTIONS /chat HTTP/1.1[0m" 204 -
+2025-01-03 01:32:13,029 - INFO - Received chat request
+2025-01-03 01:32:21,114 - INFO - Successfully generated response
+2025-01-03 01:32:21,123 - INFO - 127.0.0.1 - - [03/Jan/2025 01:32:21] "POST /chat HTTP/1.1" 200 -
+2025-01-03 01:32:37,725 - INFO - 127.0.0.1 - - [03/Jan/2025 01:32:37] "[35m[1mOPTIONS /chat HTTP/1.1[0m" 204 -
+2025-01-03 01:32:38,232 - INFO - Received chat request
+2025-01-03 01:32:43,512 - INFO - Successfully generated response
+2025-01-03 01:32:43,512 - INFO - 127.0.0.1 - - [03/Jan/2025 01:32:43] "POST /chat HTTP/1.1" 200 -
+2025-01-03 01:35:44,106 - INFO -  * Detected change in 'c:\\Users\\PC\\Desktop\\chat bot ai\\ppp - Copy 2\\gemini_handler.py', reloading
+2025-01-03 01:35:47,359 - INFO -  * Restarting with stat
+2025-01-03 01:35:57,964 - INFO - Starting server on port 8000
+2025-01-03 01:35:58,050 - INFO - Successfully configured Gemini API
+2025-01-03 01:35:58,328 - WARNING -  * Debugger is active!
+2025-01-03 01:35:58,345 - INFO -  * Debugger PIN: 805-005-585
+2025-01-03 01:36:04,487 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-01-03 01:36:04,488 - INFO -  * Running on http://192.168.1.35:8000/ (Press CTRL+C to quit)
+2025-01-03 01:36:11,307 - INFO - Starting server on port 8000
+2025-01-03 01:36:11,308 - INFO - Successfully configured Gemini API
+2025-01-03 01:36:11,384 - INFO -  * Restarting with stat
+2025-01-03 01:36:22,379 - INFO - Starting server on port 8000
+2025-01-03 01:36:22,399 - INFO - Successfully configured Gemini API
+2025-01-03 01:36:22,529 - WARNING -  * Debugger is active!
+2025-01-03 01:36:22,728 - INFO -  * Debugger PIN: 805-005-585
+2025-01-03 01:36:27,079 - INFO - 127.0.0.1 - - [03/Jan/2025 01:36:27] "GET /health HTTP/1.1" 200 -
+2025-01-03 01:36:29,288 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-01-03 01:36:29,288 - INFO -  * Running on http://192.168.1.35:8000/ (Press CTRL+C to quit)
+2025-01-03 01:36:31,569 - INFO - 127.0.0.1 - - [03/Jan/2025 01:36:31] "[35m[1mOPTIONS /chat HTTP/1.1[0m" 204 -
+2025-01-03 01:36:31,954 - INFO - Received chat request
+2025-01-03 01:36:40,544 - INFO - Successfully generated response
+2025-01-03 01:36:40,560 - INFO - 127.0.0.1 - - [03/Jan/2025 01:36:40] "POST /chat HTTP/1.1" 200 -
+2025-01-03 01:37:04,092 - INFO - 127.0.0.1 - - [03/Jan/2025 01:37:04] "[35m[1mOPTIONS /chat HTTP/1.1[0m" 204 -
+2025-01-03 01:37:04,567 - INFO - Received chat request
+2025-01-03 01:37:09,910 - INFO - Successfully generated response
+2025-01-03 01:37:09,910 - INFO - 127.0.0.1 - - [03/Jan/2025 01:37:09] "POST /chat HTTP/1.1" 200 -
+2025-01-03 01:39:46,783 - INFO -  * Detected change in 'c:\\Users\\PC\\Desktop\\chat bot ai\\ppp - Copy 2\\gemini_handler.py', reloading
+2025-01-03 01:39:46,990 - INFO -  * Detected change in 'c:\\Users\\PC\\Desktop\\chat bot ai\\ppp - Copy 2\\gemini_handler.py', reloading
+2025-01-03 01:39:48,121 - INFO -  * Restarting with stat
+2025-01-03 01:39:50,099 - INFO -  * Restarting with stat
+2025-01-03 01:40:07,371 - INFO - Starting server on port 8000
+2025-01-03 01:40:07,404 - INFO - Successfully configured Gemini API
+2025-01-03 01:40:07,471 - INFO - Starting server on port 8000
+2025-01-03 01:40:07,488 - INFO - Successfully configured Gemini API
+2025-01-03 01:40:07,566 - WARNING -  * Debugger is active!
+2025-01-03 01:40:07,582 - WARNING -  * Debugger is active!
+2025-01-03 01:40:07,610 - INFO -  * Debugger PIN: 805-005-585
+2025-01-03 01:40:07,683 - INFO -  * Debugger PIN: 805-005-585
+2025-01-03 01:40:12,765 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-01-03 01:40:12,767 - INFO -  * Running on http://192.168.1.35:8000/ (Press CTRL+C to quit)
+2025-01-03 01:40:12,769 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-01-03 01:40:12,769 - INFO -  * Running on http://192.168.1.35:8000/ (Press CTRL+C to quit)
+2025-01-03 01:41:05,909 - INFO -  * Detected change in 'c:\\Users\\PC\\Desktop\\chat bot ai\\ppp - Copy 2\\gemini_handler.py', reloading
+2025-01-03 01:41:06,604 - INFO -  * Restarting with stat
+2025-01-03 01:41:07,452 - INFO -  * Detected change in 'c:\\Users\\PC\\Desktop\\chat bot ai\\ppp - Copy 2\\gemini_handler.py', reloading
+2025-01-03 01:41:07,877 - INFO -  * Restarting with stat
+2025-01-03 01:41:13,685 - INFO - Starting server on port 8000
+2025-01-03 01:41:13,690 - INFO - Successfully loaded residence data
+2025-01-03 01:41:13,690 - INFO - Successfully configured Gemini API
+2025-01-03 01:41:13,741 - WARNING -  * Debugger is active!
+2025-01-03 01:41:13,767 - INFO -  * Debugger PIN: 805-005-585
+2025-01-03 01:41:13,830 - INFO - Starting server on port 8000
+2025-01-03 01:41:13,869 - INFO - Successfully loaded residence data
+2025-01-03 01:41:13,869 - INFO - Successfully configured Gemini API
+2025-01-03 01:41:14,056 - WARNING -  * Debugger is active!
+2025-01-03 01:41:14,105 - INFO -  * Debugger PIN: 805-005-585
+2025-01-03 01:41:15,322 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-01-03 01:41:15,322 - INFO -  * Running on http://192.168.1.35:8000/ (Press CTRL+C to quit)
+2025-01-03 01:41:15,388 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-01-03 01:41:15,389 - INFO -  * Running on http://192.168.1.35:8000/ (Press CTRL+C to quit)
+2025-01-03 01:42:08,927 - INFO - Starting server on port 8000
+2025-01-03 01:42:08,937 - INFO - Successfully loaded residence data
+2025-01-03 01:42:08,938 - INFO - Successfully configured Gemini API
+2025-01-03 01:42:09,007 - INFO -  * Restarting with stat
+2025-01-03 01:42:15,799 - INFO - Starting server on port 8000
+2025-01-03 01:42:15,805 - INFO - Successfully loaded residence data
+2025-01-03 01:42:15,805 - INFO - Successfully configured Gemini API
+2025-01-03 01:42:15,898 - WARNING -  * Debugger is active!
+2025-01-03 01:42:15,927 - INFO -  * Debugger PIN: 805-005-585
+2025-01-03 01:42:17,447 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-01-03 01:42:17,449 - INFO -  * Running on http://192.168.1.35:8000/ (Press CTRL+C to quit)
+2025-01-03 01:43:13,906 - INFO - 127.0.0.1 - - [03/Jan/2025 01:43:13] "GET /health HTTP/1.1" 200 -
+2025-01-03 01:43:23,621 - INFO - 127.0.0.1 - - [03/Jan/2025 01:43:23] "[35m[1mOPTIONS /chat HTTP/1.1[0m" 204 -
+2025-01-03 01:43:23,953 - INFO - Received chat request
+2025-01-03 01:43:33,590 - INFO - Successfully generated response
+2025-01-03 01:43:33,590 - INFO - 127.0.0.1 - - [03/Jan/2025 01:43:33] "POST /chat HTTP/1.1" 200 -
+2025-01-03 01:43:49,946 - INFO - 127.0.0.1 - - [03/Jan/2025 01:43:49] "[35m[1mOPTIONS /chat HTTP/1.1[0m" 204 -
+2025-01-03 01:43:50,227 - INFO - Received chat request
+2025-01-03 01:43:54,825 - INFO - Successfully generated response
+2025-01-03 01:43:54,826 - INFO - 127.0.0.1 - - [03/Jan/2025 01:43:54] "POST /chat HTTP/1.1" 200 -
